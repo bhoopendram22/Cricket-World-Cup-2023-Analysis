@@ -1,7 +1,5 @@
 # Cricket-World-Cup-2023-Analysis
-Here’s the updated GitHub description with your **“Build Your Own Best Playing 11”** feature added in a strong way:
 🏏 ICC Cricket World Cup 2023 – Advanced Analytics Dashboard
-
 This project is a full-scale sports analytics dashboard built using Power BI, focused on the ICC Cricket World Cup 2023. It transforms raw match and player data into an interactive and insightful experience, allowing users to explore performance trends, compare players, and make data-driven decisions.
  🌟 Unique Feature: Build Your Own Best Playing XI
 
